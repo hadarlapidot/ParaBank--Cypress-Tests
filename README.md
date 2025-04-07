@@ -4,11 +4,6 @@
 
 ---
 
-## 🎥 Demo
-
-![Test run demo](./assets/demo.gif) <!-- Replace with your own GIF -->
-
----
 
 ## 🚀 Features
 
